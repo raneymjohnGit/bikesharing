@@ -97,27 +97,27 @@ Follow the instructions below and the numbered comments in the starter code to c
   - link to Tableau Dashboard/Story - https://public.tableau.com/app/profile/raney.mathew.john/viz/NYC_CitiBike_Challenge_16539620907050/FinalPresentation?publish=yes
 
   - Checkout Time for Users
-    ![image_name](https://github.com/raneymjohnGit/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/EarthquakeDataOnMap.png)
+    ![image_name](https://github.com/raneymjohnGit/bikesharing/blob/main/Resources/Checkout_Time_for_Users.png)
   
     it appears that most users uses the bike for 30 to 40 minutes
 
   - Checkout Time by Gender
-    ![image_name](https://github.com/raneymjohnGit/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/EarthquakeDataOnMap.png)
+    ![image_name](https://github.com/raneymjohnGit/bikesharing/blob/main/Resources/Checkout_Time_by_Gender.png)
 
     it appears that MALE users uses the bike more than any other gender types
 
   - Trips by Weekday for Each hour
-    ![image_name](https://github.com/raneymjohnGit/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/EarthquakeDataOnMap.png)
+    ![image_name](https://github.com/raneymjohnGit/bikesharing/blob/main/Resources/Trips_by_Weekday_for_Each_hour.png)
 
     it appears that morning 7 to 10 and evening 5 to 7 users uses the bike more on Weekdays and on weekends (saturdays and sundays), the trips are evenly distributed from 9 AM to 9 PM.
 
   - Trips by Gender (Weekday per hour)
-    ![image_name](https://github.com/raneymjohnGit/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/EarthquakeDataOnMap.png)
+    ![image_name](https://github.com/raneymjohnGit/bikesharing/blob/main/Resources/Trips_by_Gender_Weekday_per_hour.png)
 
     it appears that MALE users are in majority during the rush hours (Weekdays - 7 AM to 10 AM and 5 PM to 7 PM, Weekends 9 AM to 9PM)
 
   - User Trips by Gender by Weekday 
-    ![image_name](https://github.com/raneymjohnGit/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/EarthquakeDataOnMap.png)
+    ![image_name](https://github.com/raneymjohnGit/bikesharing/blob/main/Resources/User_Trips_by_Gender_by_Weekday.png)
 
     it appears that subscriber user uses bike more weekdays than on weekends and customer user usage is evenly distributed among all days
 
@@ -125,5 +125,7 @@ Follow the instructions below and the numbered comments in the starter code to c
 ## bikesharing Summary
 1.  Subscribers uses more trips than regulat customers. So when we start the business in Des Moines we need to start with a subscription
 2.  Following two additional visualizations are needed to determine the feasibility of bike sharing business in Des Moines.
-    a.  We might need information on the tourist spots and need a visualization against the number of trips started near to that toirist spots (Example: Empire Estate building)
+    
+	a.  We might need information on the tourist spots and need a visualization against the number of trips started near to that toirist spots (Example: Empire Estate building)
+
     b. We might need a visualization against the Age group and no of trips (The inforamtion currently have may not be accurate since it has birth year upto 1885)
